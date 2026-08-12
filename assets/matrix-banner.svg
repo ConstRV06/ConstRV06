@@ -1,0 +1,684 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="100%" height="320" role="img" aria-label="Matrix code rain banner">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#00110a"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="glowStrong" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect x="0" y="0" width="1200" height="320" fill="url(#bgGrad)"/>
+  <g font-family="Consolas, Menlo, Monaco, monospace" font-size="16" filter="url(#glow)">
+    <text x="2" y="-400">
+      <tspan x="2" dy="0" fill="#001a00">ザ</tspan>
+      <tspan x="2" dy="16" fill="#003300">チ</tspan>
+      <tspan x="2" dy="16" fill="#004d00">デ</tspan>
+      <tspan x="2" dy="16" fill="#008000">グ</tspan>
+      <tspan x="2" dy="16" fill="#009900">ザ</tspan>
+      <tspan x="2" dy="16" fill="#00b300">オ</tspan>
+      <tspan x="2" dy="16" fill="#00e600">キ</tspan>
+      <tspan x="2" dy="16" fill="#00ff41">チ</tspan>
+      <animate attributeName="y" from="-400" to="720" dur="3.63s" begin="-1.9s" repeatCount="indefinite"/>
+    </text>
+    <text x="26" y="-400">
+      <tspan x="26" dy="0" fill="#001a00">グ</tspan>
+      <tspan x="26" dy="16" fill="#003300">カ</tspan>
+      <tspan x="26" dy="16" fill="#004d00">ノ</tspan>
+      <tspan x="26" dy="16" fill="#006600">エ</tspan>
+      <tspan x="26" dy="16" fill="#008000">ウ</tspan>
+      <tspan x="26" dy="16" fill="#00b300">ワ</tspan>
+      <tspan x="26" dy="16" fill="#00cc00">マ</tspan>
+      <tspan x="26" dy="16" fill="#00e600">ゼ</tspan>
+      <tspan x="26" dy="16" fill="#00ff41">ノ</tspan>
+      <animate attributeName="y" from="-400" to="720" dur="4.9s" begin="-1.28s" repeatCount="indefinite"/>
+    </text>
+    <text x="52" y="-400">
+      <tspan x="52" dy="0" fill="#001a00">ゾ</tspan>
+      <tspan x="52" dy="16" fill="#003300">ゲ</tspan>
+      <tspan x="52" dy="16" fill="#006600">グ</tspan>
+      <tspan x="52" dy="16" fill="#008000">ダ</tspan>
+      <tspan x="52" dy="16" fill="#00b300">サ</tspan>
+      <tspan x="52" dy="16" fill="#00cc00">リ</tspan>
+      <tspan x="52" dy="16" fill="#00ff41">エ</tspan>
+      <animate attributeName="y" from="-400" to="720" dur="6.56s" begin="-0.97s" repeatCount="indefinite"/>
+    </text>
+    <text x="81" y="-400">
+      <tspan x="81" dy="0" fill="#001a00">ペ</tspan>
+      <tspan x="81" dy="16" fill="#003300">ビ</tspan>
+      <tspan x="81" dy="16" fill="#006600">ワ</tspan>
+      <tspan x="81" dy="16" fill="#008000">カ</tspan>
+      <tspan x="81" dy="16" fill="#00b300">サ</tspan>
+      <tspan x="81" dy="16" fill="#00cc00">コ</tspan>
+      <tspan x="81" dy="16" fill="#00ff41">テ</tspan>
+      <animate attributeName="y" from="-400" to="720" dur="5.68s" begin="-4.57s" repeatCount="indefinite"/>
+    </text>
+    <text x="101" y="-400">
+      <tspan x="101" dy="0" fill="#001a00">ヘ</tspan>
+      <tspan x="101" dy="16" fill="#003300">ワ</tspan>
+      <tspan x="101" dy="16" fill="#004d00">サ</tspan>
+      <tspan x="101" dy="16" fill="#006600">セ</tspan>
+      <tspan x="101" dy="16" fill="#008000">グ</tspan>
+      <tspan x="101" dy="16" fill="#00b300">サ</tspan>
+      <tspan x="101" dy="16" fill="#00cc00">ク</tspan>
+      <tspan x="101" dy="16" fill="#00e600">ゼ</tspan>
+      <tspan x="101" dy="16" fill="#00ff41">ネ</tspan>
+      <animate attributeName="y" from="-400" to="720" dur="6.86s" begin="-1.99s" repeatCount="indefinite"/>
+    </text>
+    <text x="127" y="-400">
+      <tspan x="127" dy="0" fill="#001a00">ナ</tspan>
+      <tspan x="127" dy="16" fill="#003300">デ</tspan>
+      <tspan x="127" dy="16" fill="#006600">ナ</tspan>
+      <tspan x="127" dy="16" fill="#008000">フ</tspan>
+      <tspan x="127" dy="16" fill="#00b300">ン</tspan>
+      <tspan x="127" dy="16" fill="#00cc00">ト</tspan>
+      <tspan x="127" dy="16" fill="#00ff41">ツ</tspan>
+      <animate attributeName="y" from="-400" to="720" dur="4.83s" begin="-1.29s" repeatCount="indefinite"/>
+    </text>
+    <text x="157" y="-400">
+      <tspan x="157" dy="0" fill="#001a00">ア</tspan>
+      <tspan x="157" dy="16" fill="#003300">ン</tspan>
+      <tspan x="157" dy="16" fill="#004d00">タ</tspan>
+      <tspan x="157" dy="16" fill="#006600">メ</tspan>
+      <tspan x="157" dy="16" fill="#008000">カ</tspan>
+      <tspan x="157" dy="16" fill="#009900">ド</tspan>
+      <tspan x="157" dy="16" fill="#00b300">ボ</tspan>
+      <tspan x="157" dy="16" fill="#00cc00">ヌ</tspan>
+      <tspan x="157" dy="16" fill="#00e600">ビ</tspan>
+      <tspan x="157" dy="16" fill="#00ff41">テ</tspan>
+      <tspan x="157" dy="16" fill="#aaffcc">サ</tspan>
+      <animate attributeName="y" from="-400" to="720" dur="3.04s" begin="-2.52s" repeatCount="indefinite"/>
+    </text>
+    <text x="182" y="-400">
+      <tspan x="182" dy="0" fill="#001a00">ズ</tspan>
+      <tspan x="182" dy="16" fill="#003300">ウ</tspan>
+      <tspan x="182" dy="16" fill="#004d00">ミ</tspan>
+      <tspan x="182" dy="16" fill="#008000">ゾ</tspan>
+      <tspan x="182" dy="16" fill="#009900">エ</tspan>
+      <tspan x="182" dy="16" fill="#00b300">ベ</tspan>
+      <tspan x="182" dy="16" fill="#00e600">ア</tspan>
+      <tspan x="182" dy="16" fill="#00ff41">ヲ</tspan>
+      <animate attributeName="y" from="-400" to="720" dur="5.18s" begin="-4.1s" repeatCount="indefinite"/>
+    </text>
+    <text x="213" y="-400">
+      <tspan x="213" dy="0" fill="#001a00">ヤ</tspan>
+      <tspan x="213" dy="16" fill="#003300">ヌ</tspan>
+      <tspan x="213" dy="16" fill="#004d00">ヰ</tspan>
+      <tspan x="213" dy="16" fill="#006600">コ</tspan>
+      <tspan x="213" dy="16" fill="#008000">ワ</tspan>
+      <tspan x="213" dy="16" fill="#00b300">ラ</tspan>
+      <tspan x="213" dy="16" fill="#00cc00">パ</tspan>
+      <tspan x="213" dy="16" fill="#00e600">ケ</tspan>
+      <tspan x="213" dy="16" fill="#00ff41">グ</tspan>
+      <animate attributeName="y" from="-400" to="720" dur="6.55s" begin="-1.06s" repeatCount="indefinite"/>
+    </text>
+    <text x="239" y="-400">
+      <tspan x="239" dy="0" fill="#001a00">ヒ</tspan>
+      <tspan x="239" dy="16" fill="#001a00">ヅ</tspan>
+      <tspan x="239" dy="16" fill="#003300">1</tspan>
+      <tspan x="239" dy="16" fill="#004d00">ヘ</tspan>
+      <tspan x="239" dy="16" fill="#006600">ア</tspan>
+      <tspan x="239" dy="16" fill="#008000">ギ</tspan>
+      <tspan x="239" dy="16" fill="#009900">ボ</tspan>
+      <tspan x="239" dy="16" fill="#009900">カ</tspan>
+      <tspan x="239" dy="16" fill="#00b300">イ</tspan>
+      <tspan x="239" dy="16" fill="#00cc00">チ</tspan>
+      <tspan x="239" dy="16" fill="#00e600">サ</tspan>
+      <tspan x="239" dy="16" fill="#00ff41">パ</tspan>
+      <tspan x="239" dy="16" fill="#aaffcc">ケ</tspan>
+      <animate attributeName="y" from="-400" to="720" dur="6.36s" begin="-4.55s" repeatCount="indefinite"/>
+    </text>
+    <text x="260" y="-400">
+      <tspan x="260" dy="0" fill="#001a00">ヤ</tspan>
+      <tspan x="260" dy="16" fill="#003300">ヰ</tspan>
+      <tspan x="260" dy="16" fill="#006600">ヰ</tspan>
+      <tspan x="260" dy="16" fill="#008000">ペ</tspan>
+      <tspan x="260" dy="16" fill="#00b300">ホ</tspan>
+      <tspan x="260" dy="16" fill="#00cc00">ン</tspan>
+      <tspan x="260" dy="16" fill="#00ff41">サ</tspan>
+      <animate attributeName="y" from="-400" to="720" dur="7.97s" begin="-0.97s" repeatCount="indefinite"/>
+    </text>
+    <text x="290" y="-400">
+      <tspan x="290" dy="0" fill="#001a00">モ</tspan>
+      <tspan x="290" dy="16" fill="#001a00">ニ</tspan>
+      <tspan x="290" dy="16" fill="#003300">ブ</tspan>
+      <tspan x="290" dy="16" fill="#004d00">ネ</tspan>
+      <tspan x="290" dy="16" fill="#004d00">テ</tspan>
+      <tspan x="290" dy="16" fill="#006600">バ</tspan>
+      <tspan x="290" dy="16" fill="#008000">ミ</tspan>
+      <tspan x="290" dy="16" fill="#009900">ダ</tspan>
+      <tspan x="290" dy="16" fill="#009900">カ</tspan>
+      <tspan x="290" dy="16" fill="#00b300">キ</tspan>
+      <tspan x="290" dy="16" fill="#00cc00">ボ</tspan>
+      <tspan x="290" dy="16" fill="#00e600">1</tspan>
+      <tspan x="290" dy="16" fill="#00e600">コ</tspan>
+      <tspan x="290" dy="16" fill="#00ff41">ラ</tspan>
+      <tspan x="290" dy="16" fill="#aaffcc">ヲ</tspan>
+      <animate attributeName="y" from="-400" to="720" dur="4.19s" begin="-3.88s" repeatCount="indefinite"/>
+    </text>
+    <text x="310" y="-400">
+      <tspan x="310" dy="0" fill="#001a00">ゼ</tspan>
+      <tspan x="310" dy="16" fill="#003300">ャ</tspan>
+      <tspan x="310" dy="16" fill="#004d00">ケ</tspan>
+      <tspan x="310" dy="16" fill="#006600">ピ</tspan>
+      <tspan x="310" dy="16" fill="#008000">ヲ</tspan>
+      <tspan x="310" dy="16" fill="#00b300">ツ</tspan>
+      <tspan x="310" dy="16" fill="#00cc00">ジ</tspan>
+      <tspan x="310" dy="16" fill="#00e600">ッ</tspan>
+      <tspan x="310" dy="16" fill="#00ff41">フ</tspan>
+      <animate attributeName="y" from="-400" to="720" dur="5.8s" begin="-3.23s" repeatCount="indefinite"/>
+    </text>
+    <text x="339" y="-400">
+      <tspan x="339" dy="0" fill="#001a00">ヤ</tspan>
+      <tspan x="339" dy="16" fill="#001a00">ン</tspan>
+      <tspan x="339" dy="16" fill="#003300">ダ</tspan>
+      <tspan x="339" dy="16" fill="#004d00">ポ</tspan>
+      <tspan x="339" dy="16" fill="#004d00">デ</tspan>
+      <tspan x="339" dy="16" fill="#006600">ウ</tspan>
+      <tspan x="339" dy="16" fill="#008000">ケ</tspan>
+      <tspan x="339" dy="16" fill="#009900">ウ</tspan>
+      <tspan x="339" dy="16" fill="#009900">ャ</tspan>
+      <tspan x="339" dy="16" fill="#00b300">ド</tspan>
+      <tspan x="339" dy="16" fill="#00cc00">ッ</tspan>
+      <tspan x="339" dy="16" fill="#00e600">ゴ</tspan>
+      <tspan x="339" dy="16" fill="#00e600">ザ</tspan>
+      <tspan x="339" dy="16" fill="#00ff41">ギ</tspan>
+      <tspan x="339" dy="16" fill="#aaffcc">ブ</tspan>
+      <animate attributeName="y" from="-400" to="720" dur="7.05s" begin="-0.9s" repeatCount="indefinite"/>
+    </text>
+    <text x="366" y="-400">
+      <tspan x="366" dy="0" fill="#001a00">ニ</tspan>
+      <tspan x="366" dy="16" fill="#001a00">ギ</tspan>
+      <tspan x="366" dy="16" fill="#003300">グ</tspan>
+      <tspan x="366" dy="16" fill="#004d00">ト</tspan>
+      <tspan x="366" dy="16" fill="#004d00">シ</tspan>
+      <tspan x="366" dy="16" fill="#006600">ゴ</tspan>
+      <tspan x="366" dy="16" fill="#008000">メ</tspan>
+      <tspan x="366" dy="16" fill="#009900">ダ</tspan>
+      <tspan x="366" dy="16" fill="#009900">ニ</tspan>
+      <tspan x="366" dy="16" fill="#00b300">イ</tspan>
+      <tspan x="366" dy="16" fill="#00cc00">モ</tspan>
+      <tspan x="366" dy="16" fill="#00e600">ネ</tspan>
+      <tspan x="366" dy="16" fill="#00e600">ハ</tspan>
+      <tspan x="366" dy="16" fill="#00ff41">ク</tspan>
+      <tspan x="366" dy="16" fill="#aaffcc">ト</tspan>
+      <animate attributeName="y" from="-400" to="720" dur="7.11s" begin="-5.31s" repeatCount="indefinite"/>
+    </text>
+    <text x="394" y="-400">
+      <tspan x="394" dy="0" fill="#001a00">フ</tspan>
+      <tspan x="394" dy="16" fill="#001a00">ゴ</tspan>
+      <tspan x="394" dy="16" fill="#003300">ッ</tspan>
+      <tspan x="394" dy="16" fill="#004d00">ガ</tspan>
+      <tspan x="394" dy="16" fill="#006600">エ</tspan>
+      <tspan x="394" dy="16" fill="#006600">パ</tspan>
+      <tspan x="394" dy="16" fill="#008000">ネ</tspan>
+      <tspan x="394" dy="16" fill="#009900">ル</tspan>
+      <tspan x="394" dy="16" fill="#00b300">ゼ</tspan>
+      <tspan x="394" dy="16" fill="#00cc00">ヤ</tspan>
+      <tspan x="394" dy="16" fill="#00cc00">ト</tspan>
+      <tspan x="394" dy="16" fill="#00e600">ジ</tspan>
+      <tspan x="394" dy="16" fill="#00ff41">グ</tspan>
+      <tspan x="394" dy="16" fill="#aaffcc">デ</tspan>
+      <animate attributeName="y" from="-400" to="720" dur="7.77s" begin="-7.33s" repeatCount="indefinite"/>
+    </text>
+    <text x="414" y="-400">
+      <tspan x="414" dy="0" fill="#001a00">バ</tspan>
+      <tspan x="414" dy="16" fill="#003300">ボ</tspan>
+      <tspan x="414" dy="16" fill="#004d00">タ</tspan>
+      <tspan x="414" dy="16" fill="#006600">タ</tspan>
+      <tspan x="414" dy="16" fill="#008000">パ</tspan>
+      <tspan x="414" dy="16" fill="#009900">リ</tspan>
+      <tspan x="414" dy="16" fill="#00b300">ザ</tspan>
+      <tspan x="414" dy="16" fill="#00cc00">ヒ</tspan>
+      <tspan x="414" dy="16" fill="#00e600">ニ</tspan>
+      <tspan x="414" dy="16" fill="#00ff41">ヲ</tspan>
+      <tspan x="414" dy="16" fill="#aaffcc">フ</tspan>
+      <animate attributeName="y" from="-400" to="720" dur="6.94s" begin="-4.04s" repeatCount="indefinite"/>
+    </text>
+    <text x="442" y="-400">
+      <tspan x="442" dy="0" fill="#001a00">1</tspan>
+      <tspan x="442" dy="16" fill="#003300">ジ</tspan>
+      <tspan x="442" dy="16" fill="#004d00">ヨ</tspan>
+      <tspan x="442" dy="16" fill="#006600">リ</tspan>
+      <tspan x="442" dy="16" fill="#008000">ダ</tspan>
+      <tspan x="442" dy="16" fill="#009900">ポ</tspan>
+      <tspan x="442" dy="16" fill="#00b300">ケ</tspan>
+      <tspan x="442" dy="16" fill="#00cc00">セ</tspan>
+      <tspan x="442" dy="16" fill="#00e600">ピ</tspan>
+      <tspan x="442" dy="16" fill="#00ff41">ヴ</tspan>
+      <tspan x="442" dy="16" fill="#aaffcc">ハ</tspan>
+      <animate attributeName="y" from="-400" to="720" dur="6.82s" begin="-4.52s" repeatCount="indefinite"/>
+    </text>
+    <text x="470" y="-400">
+      <tspan x="470" dy="0" fill="#001a00">ヲ</tspan>
+      <tspan x="470" dy="16" fill="#001a00">ゴ</tspan>
+      <tspan x="470" dy="16" fill="#003300">ア</tspan>
+      <tspan x="470" dy="16" fill="#004d00">ミ</tspan>
+      <tspan x="470" dy="16" fill="#006600">エ</tspan>
+      <tspan x="470" dy="16" fill="#006600">ア</tspan>
+      <tspan x="470" dy="16" fill="#008000">ゴ</tspan>
+      <tspan x="470" dy="16" fill="#009900">ク</tspan>
+      <tspan x="470" dy="16" fill="#00b300">レ</tspan>
+      <tspan x="470" dy="16" fill="#00cc00">メ</tspan>
+      <tspan x="470" dy="16" fill="#00cc00">0</tspan>
+      <tspan x="470" dy="16" fill="#00e600">ミ</tspan>
+      <tspan x="470" dy="16" fill="#00ff41">ポ</tspan>
+      <tspan x="470" dy="16" fill="#aaffcc">ペ</tspan>
+      <animate attributeName="y" from="-400" to="720" dur="4.56s" begin="-4.19s" repeatCount="indefinite"/>
+    </text>
+    <text x="492" y="-400">
+      <tspan x="492" dy="0" fill="#001a00">ヱ</tspan>
+      <tspan x="492" dy="16" fill="#003300">グ</tspan>
+      <tspan x="492" dy="16" fill="#004d00">ヂ</tspan>
+      <tspan x="492" dy="16" fill="#006600">ギ</tspan>
+      <tspan x="492" dy="16" fill="#008000">イ</tspan>
+      <tspan x="492" dy="16" fill="#009900">セ</tspan>
+      <tspan x="492" dy="16" fill="#00b300">ヘ</tspan>
+      <tspan x="492" dy="16" fill="#00cc00">セ</tspan>
+      <tspan x="492" dy="16" fill="#00e600">ヰ</tspan>
+      <tspan x="492" dy="16" fill="#00ff41">メ</tspan>
+      <animate attributeName="y" from="-400" to="720" dur="6.29s" begin="-0.27s" repeatCount="indefinite"/>
+    </text>
+    <text x="518" y="-400">
+      <tspan x="518" dy="0" fill="#001a00">0</tspan>
+      <tspan x="518" dy="16" fill="#003300">ジ</tspan>
+      <tspan x="518" dy="16" fill="#004d00">ン</tspan>
+      <tspan x="518" dy="16" fill="#008000">エ</tspan>
+      <tspan x="518" dy="16" fill="#009900">ジ</tspan>
+      <tspan x="518" dy="16" fill="#00b300">ガ</tspan>
+      <tspan x="518" dy="16" fill="#00e600">ダ</tspan>
+      <tspan x="518" dy="16" fill="#00ff41">ヘ</tspan>
+      <animate attributeName="y" from="-400" to="720" dur="7.21s" begin="-2.1s" repeatCount="indefinite"/>
+    </text>
+    <text x="544" y="-400">
+      <tspan x="544" dy="0" fill="#001a00">バ</tspan>
+      <tspan x="544" dy="16" fill="#001a00">ヘ</tspan>
+      <tspan x="544" dy="16" fill="#003300">ヘ</tspan>
+      <tspan x="544" dy="16" fill="#004d00">ロ</tspan>
+      <tspan x="544" dy="16" fill="#004d00">ジ</tspan>
+      <tspan x="544" dy="16" fill="#006600">セ</tspan>
+      <tspan x="544" dy="16" fill="#008000">ク</tspan>
+      <tspan x="544" dy="16" fill="#009900">ス</tspan>
+      <tspan x="544" dy="16" fill="#009900">バ</tspan>
+      <tspan x="544" dy="16" fill="#00b300">ソ</tspan>
+      <tspan x="544" dy="16" fill="#00cc00">ヅ</tspan>
+      <tspan x="544" dy="16" fill="#00e600">ズ</tspan>
+      <tspan x="544" dy="16" fill="#00e600">レ</tspan>
+      <tspan x="544" dy="16" fill="#00ff41">ク</tspan>
+      <tspan x="544" dy="16" fill="#aaffcc">メ</tspan>
+      <animate attributeName="y" from="-400" to="720" dur="3.9s" begin="-2.56s" repeatCount="indefinite"/>
+    </text>
+    <text x="578" y="-400">
+      <tspan x="578" dy="0" fill="#001a00">ブ</tspan>
+      <tspan x="578" dy="16" fill="#001a00">ノ</tspan>
+      <tspan x="578" dy="16" fill="#003300">ゲ</tspan>
+      <tspan x="578" dy="16" fill="#004d00">リ</tspan>
+      <tspan x="578" dy="16" fill="#006600">エ</tspan>
+      <tspan x="578" dy="16" fill="#008000">ペ</tspan>
+      <tspan x="578" dy="16" fill="#009900">ヌ</tspan>
+      <tspan x="578" dy="16" fill="#009900">1</tspan>
+      <tspan x="578" dy="16" fill="#00b300">ル</tspan>
+      <tspan x="578" dy="16" fill="#00cc00">ロ</tspan>
+      <tspan x="578" dy="16" fill="#00e600">サ</tspan>
+      <tspan x="578" dy="16" fill="#00ff41">ク</tspan>
+      <tspan x="578" dy="16" fill="#aaffcc">ク</tspan>
+      <animate attributeName="y" from="-400" to="720" dur="4.13s" begin="-1.29s" repeatCount="indefinite"/>
+    </text>
+    <text x="597" y="-400">
+      <tspan x="597" dy="0" fill="#001a00">ヴ</tspan>
+      <tspan x="597" dy="16" fill="#001a00">ヌ</tspan>
+      <tspan x="597" dy="16" fill="#003300">リ</tspan>
+      <tspan x="597" dy="16" fill="#004d00">ム</tspan>
+      <tspan x="597" dy="16" fill="#006600">ゼ</tspan>
+      <tspan x="597" dy="16" fill="#008000">ク</tspan>
+      <tspan x="597" dy="16" fill="#009900">マ</tspan>
+      <tspan x="597" dy="16" fill="#00b300">ダ</tspan>
+      <tspan x="597" dy="16" fill="#00cc00">ト</tspan>
+      <tspan x="597" dy="16" fill="#00e600">フ</tspan>
+      <tspan x="597" dy="16" fill="#00ff41">ゾ</tspan>
+      <tspan x="597" dy="16" fill="#aaffcc">ポ</tspan>
+      <animate attributeName="y" from="-400" to="720" dur="5.03s" begin="-0.01s" repeatCount="indefinite"/>
+    </text>
+    <text x="626" y="-400">
+      <tspan x="626" dy="0" fill="#001a00">ネ</tspan>
+      <tspan x="626" dy="16" fill="#003300">ネ</tspan>
+      <tspan x="626" dy="16" fill="#004d00">モ</tspan>
+      <tspan x="626" dy="16" fill="#008000">ル</tspan>
+      <tspan x="626" dy="16" fill="#009900">ヰ</tspan>
+      <tspan x="626" dy="16" fill="#00b300">タ</tspan>
+      <tspan x="626" dy="16" fill="#00e600">ヤ</tspan>
+      <tspan x="626" dy="16" fill="#00ff41">ゾ</tspan>
+      <animate attributeName="y" from="-400" to="720" dur="7.74s" begin="-6.83s" repeatCount="indefinite"/>
+    </text>
+    <text x="653" y="-400">
+      <tspan x="653" dy="0" fill="#001a00">ビ</tspan>
+      <tspan x="653" dy="16" fill="#001a00">ラ</tspan>
+      <tspan x="653" dy="16" fill="#003300">ビ</tspan>
+      <tspan x="653" dy="16" fill="#004d00">ヤ</tspan>
+      <tspan x="653" dy="16" fill="#004d00">ン</tspan>
+      <tspan x="653" dy="16" fill="#006600">ヘ</tspan>
+      <tspan x="653" dy="16" fill="#008000">ア</tspan>
+      <tspan x="653" dy="16" fill="#009900">キ</tspan>
+      <tspan x="653" dy="16" fill="#009900">ド</tspan>
+      <tspan x="653" dy="16" fill="#00b300">ホ</tspan>
+      <tspan x="653" dy="16" fill="#00cc00">ホ</tspan>
+      <tspan x="653" dy="16" fill="#00e600">ウ</tspan>
+      <tspan x="653" dy="16" fill="#00e600">ケ</tspan>
+      <tspan x="653" dy="16" fill="#00ff41">ラ</tspan>
+      <tspan x="653" dy="16" fill="#aaffcc">ソ</tspan>
+      <animate attributeName="y" from="-400" to="720" dur="5.85s" begin="-0.9s" repeatCount="indefinite"/>
+    </text>
+    <text x="676" y="-400">
+      <tspan x="676" dy="0" fill="#001a00">ヘ</tspan>
+      <tspan x="676" dy="16" fill="#003300">マ</tspan>
+      <tspan x="676" dy="16" fill="#004d00">ズ</tspan>
+      <tspan x="676" dy="16" fill="#006600">ソ</tspan>
+      <tspan x="676" dy="16" fill="#008000">グ</tspan>
+      <tspan x="676" dy="16" fill="#009900">デ</tspan>
+      <tspan x="676" dy="16" fill="#00b300">ゾ</tspan>
+      <tspan x="676" dy="16" fill="#00cc00">レ</tspan>
+      <tspan x="676" dy="16" fill="#00e600">ゴ</tspan>
+      <tspan x="676" dy="16" fill="#00ff41">ジ</tspan>
+      <tspan x="676" dy="16" fill="#aaffcc">ウ</tspan>
+      <animate attributeName="y" from="-400" to="720" dur="3.25s" begin="0s" repeatCount="indefinite"/>
+    </text>
+    <text x="707" y="-400">
+      <tspan x="707" dy="0" fill="#001a00">ノ</tspan>
+      <tspan x="707" dy="16" fill="#001a00">メ</tspan>
+      <tspan x="707" dy="16" fill="#003300">ハ</tspan>
+      <tspan x="707" dy="16" fill="#004d00">ト</tspan>
+      <tspan x="707" dy="16" fill="#006600">ボ</tspan>
+      <tspan x="707" dy="16" fill="#006600">ヨ</tspan>
+      <tspan x="707" dy="16" fill="#008000">ダ</tspan>
+      <tspan x="707" dy="16" fill="#009900">ゼ</tspan>
+      <tspan x="707" dy="16" fill="#00b300">ッ</tspan>
+      <tspan x="707" dy="16" fill="#00cc00">ト</tspan>
+      <tspan x="707" dy="16" fill="#00cc00">ノ</tspan>
+      <tspan x="707" dy="16" fill="#00e600">ツ</tspan>
+      <tspan x="707" dy="16" fill="#00ff41">ゾ</tspan>
+      <tspan x="707" dy="16" fill="#aaffcc">バ</tspan>
+      <animate attributeName="y" from="-400" to="720" dur="7.22s" begin="-6.8s" repeatCount="indefinite"/>
+    </text>
+    <text x="728" y="-400">
+      <tspan x="728" dy="0" fill="#001a00">ド</tspan>
+      <tspan x="728" dy="16" fill="#001a00">ド</tspan>
+      <tspan x="728" dy="16" fill="#003300">タ</tspan>
+      <tspan x="728" dy="16" fill="#004d00">ヨ</tspan>
+      <tspan x="728" dy="16" fill="#006600">ジ</tspan>
+      <tspan x="728" dy="16" fill="#006600">ヨ</tspan>
+      <tspan x="728" dy="16" fill="#008000">ピ</tspan>
+      <tspan x="728" dy="16" fill="#009900">ヤ</tspan>
+      <tspan x="728" dy="16" fill="#00b300">0</tspan>
+      <tspan x="728" dy="16" fill="#00cc00">ラ</tspan>
+      <tspan x="728" dy="16" fill="#00cc00">ヲ</tspan>
+      <tspan x="728" dy="16" fill="#00e600">ル</tspan>
+      <tspan x="728" dy="16" fill="#00ff41">ッ</tspan>
+      <tspan x="728" dy="16" fill="#aaffcc">カ</tspan>
+      <animate attributeName="y" from="-400" to="720" dur="4.8s" begin="-2.76s" repeatCount="indefinite"/>
+    </text>
+    <text x="757" y="-400">
+      <tspan x="757" dy="0" fill="#001a00">バ</tspan>
+      <tspan x="757" dy="16" fill="#001a00">ペ</tspan>
+      <tspan x="757" dy="16" fill="#003300">ャ</tspan>
+      <tspan x="757" dy="16" fill="#004d00">ワ</tspan>
+      <tspan x="757" dy="16" fill="#006600">フ</tspan>
+      <tspan x="757" dy="16" fill="#008000">ビ</tspan>
+      <tspan x="757" dy="16" fill="#009900">ヅ</tspan>
+      <tspan x="757" dy="16" fill="#00b300">0</tspan>
+      <tspan x="757" dy="16" fill="#00cc00">ゼ</tspan>
+      <tspan x="757" dy="16" fill="#00e600">ニ</tspan>
+      <tspan x="757" dy="16" fill="#00ff41">1</tspan>
+      <tspan x="757" dy="16" fill="#aaffcc">ム</tspan>
+      <animate attributeName="y" from="-400" to="720" dur="4.59s" begin="-0.6s" repeatCount="indefinite"/>
+    </text>
+    <text x="784" y="-400">
+      <tspan x="784" dy="0" fill="#001a00">ヲ</tspan>
+      <tspan x="784" dy="16" fill="#003300">ボ</tspan>
+      <tspan x="784" dy="16" fill="#004d00">ヲ</tspan>
+      <tspan x="784" dy="16" fill="#006600">ッ</tspan>
+      <tspan x="784" dy="16" fill="#008000">リ</tspan>
+      <tspan x="784" dy="16" fill="#009900">キ</tspan>
+      <tspan x="784" dy="16" fill="#00b300">ウ</tspan>
+      <tspan x="784" dy="16" fill="#00cc00">ホ</tspan>
+      <tspan x="784" dy="16" fill="#00e600">ヲ</tspan>
+      <tspan x="784" dy="16" fill="#00ff41">タ</tspan>
+      <tspan x="784" dy="16" fill="#aaffcc">ホ</tspan>
+      <animate attributeName="y" from="-400" to="720" dur="3.22s" begin="-0.91s" repeatCount="indefinite"/>
+    </text>
+    <text x="809" y="-400">
+      <tspan x="809" dy="0" fill="#001a00">シ</tspan>
+      <tspan x="809" dy="16" fill="#001a00">ヲ</tspan>
+      <tspan x="809" dy="16" fill="#003300">ワ</tspan>
+      <tspan x="809" dy="16" fill="#004d00">テ</tspan>
+      <tspan x="809" dy="16" fill="#006600">セ</tspan>
+      <tspan x="809" dy="16" fill="#006600">ヌ</tspan>
+      <tspan x="809" dy="16" fill="#008000">オ</tspan>
+      <tspan x="809" dy="16" fill="#009900">ヌ</tspan>
+      <tspan x="809" dy="16" fill="#00b300">レ</tspan>
+      <tspan x="809" dy="16" fill="#00cc00">ヒ</tspan>
+      <tspan x="809" dy="16" fill="#00cc00">ヂ</tspan>
+      <tspan x="809" dy="16" fill="#00e600">ラ</tspan>
+      <tspan x="809" dy="16" fill="#00ff41">ヤ</tspan>
+      <tspan x="809" dy="16" fill="#aaffcc">ヤ</tspan>
+      <animate attributeName="y" from="-400" to="720" dur="6.92s" begin="-6.16s" repeatCount="indefinite"/>
+    </text>
+    <text x="835" y="-400">
+      <tspan x="835" dy="0" fill="#001a00">ヱ</tspan>
+      <tspan x="835" dy="16" fill="#003300">ガ</tspan>
+      <tspan x="835" dy="16" fill="#004d00">テ</tspan>
+      <tspan x="835" dy="16" fill="#006600">コ</tspan>
+      <tspan x="835" dy="16" fill="#008000">ジ</tspan>
+      <tspan x="835" dy="16" fill="#009900">ノ</tspan>
+      <tspan x="835" dy="16" fill="#00b300">ヴ</tspan>
+      <tspan x="835" dy="16" fill="#00cc00">ギ</tspan>
+      <tspan x="835" dy="16" fill="#00e600">ヒ</tspan>
+      <tspan x="835" dy="16" fill="#00ff41">ニ</tspan>
+      <tspan x="835" dy="16" fill="#aaffcc">ウ</tspan>
+      <animate attributeName="y" from="-400" to="720" dur="4.76s" begin="-2.23s" repeatCount="indefinite"/>
+    </text>
+    <text x="861" y="-400">
+      <tspan x="861" dy="0" fill="#001a00">ピ</tspan>
+      <tspan x="861" dy="16" fill="#003300">ペ</tspan>
+      <tspan x="861" dy="16" fill="#006600">セ</tspan>
+      <tspan x="861" dy="16" fill="#008000">ム</tspan>
+      <tspan x="861" dy="16" fill="#00b300">ゾ</tspan>
+      <tspan x="861" dy="16" fill="#00cc00">ス</tspan>
+      <tspan x="861" dy="16" fill="#00ff41">ホ</tspan>
+      <animate attributeName="y" from="-400" to="720" dur="3.71s" begin="-3.44s" repeatCount="indefinite"/>
+    </text>
+    <text x="884" y="-400">
+      <tspan x="884" dy="0" fill="#001a00">ポ</tspan>
+      <tspan x="884" dy="16" fill="#003300">マ</tspan>
+      <tspan x="884" dy="16" fill="#004d00">ヒ</tspan>
+      <tspan x="884" dy="16" fill="#006600">デ</tspan>
+      <tspan x="884" dy="16" fill="#008000">ビ</tspan>
+      <tspan x="884" dy="16" fill="#009900">ブ</tspan>
+      <tspan x="884" dy="16" fill="#00b300">ム</tspan>
+      <tspan x="884" dy="16" fill="#00cc00">0</tspan>
+      <tspan x="884" dy="16" fill="#00e600">ワ</tspan>
+      <tspan x="884" dy="16" fill="#00ff41">ネ</tspan>
+      <tspan x="884" dy="16" fill="#aaffcc">チ</tspan>
+      <animate attributeName="y" from="-400" to="720" dur="4.02s" begin="-2.74s" repeatCount="indefinite"/>
+    </text>
+    <text x="913" y="-400">
+      <tspan x="913" dy="0" fill="#001a00">ニ</tspan>
+      <tspan x="913" dy="16" fill="#003300">ザ</tspan>
+      <tspan x="913" dy="16" fill="#004d00">ム</tspan>
+      <tspan x="913" dy="16" fill="#006600">サ</tspan>
+      <tspan x="913" dy="16" fill="#008000">ャ</tspan>
+      <tspan x="913" dy="16" fill="#009900">ザ</tspan>
+      <tspan x="913" dy="16" fill="#00b300">イ</tspan>
+      <tspan x="913" dy="16" fill="#00cc00">パ</tspan>
+      <tspan x="913" dy="16" fill="#00e600">デ</tspan>
+      <tspan x="913" dy="16" fill="#00ff41">ヂ</tspan>
+      <tspan x="913" dy="16" fill="#aaffcc">ゴ</tspan>
+      <animate attributeName="y" from="-400" to="720" dur="4.63s" begin="-3.06s" repeatCount="indefinite"/>
+    </text>
+    <text x="935" y="-400">
+      <tspan x="935" dy="0" fill="#001a00">サ</tspan>
+      <tspan x="935" dy="16" fill="#003300">ガ</tspan>
+      <tspan x="935" dy="16" fill="#004d00">プ</tspan>
+      <tspan x="935" dy="16" fill="#006600">レ</tspan>
+      <tspan x="935" dy="16" fill="#008000">ロ</tspan>
+      <tspan x="935" dy="16" fill="#009900">ロ</tspan>
+      <tspan x="935" dy="16" fill="#00b300">サ</tspan>
+      <tspan x="935" dy="16" fill="#00cc00">ヅ</tspan>
+      <tspan x="935" dy="16" fill="#00e600">ゾ</tspan>
+      <tspan x="935" dy="16" fill="#00ff41">ロ</tspan>
+      <animate attributeName="y" from="-400" to="720" dur="3.19s" begin="-2.75s" repeatCount="indefinite"/>
+    </text>
+    <text x="961" y="-400">
+      <tspan x="961" dy="0" fill="#001a00">ャ</tspan>
+      <tspan x="961" dy="16" fill="#003300">ニ</tspan>
+      <tspan x="961" dy="16" fill="#004d00">ハ</tspan>
+      <tspan x="961" dy="16" fill="#008000">ワ</tspan>
+      <tspan x="961" dy="16" fill="#009900">シ</tspan>
+      <tspan x="961" dy="16" fill="#00b300">ガ</tspan>
+      <tspan x="961" dy="16" fill="#00e600">ヘ</tspan>
+      <tspan x="961" dy="16" fill="#00ff41">テ</tspan>
+      <animate attributeName="y" from="-400" to="720" dur="7.95s" begin="-2.36s" repeatCount="indefinite"/>
+    </text>
+    <text x="990" y="-400">
+      <tspan x="990" dy="0" fill="#001a00">ゴ</tspan>
+      <tspan x="990" dy="16" fill="#003300">プ</tspan>
+      <tspan x="990" dy="16" fill="#006600">ジ</tspan>
+      <tspan x="990" dy="16" fill="#008000">ユ</tspan>
+      <tspan x="990" dy="16" fill="#00b300">ル</tspan>
+      <tspan x="990" dy="16" fill="#00cc00">カ</tspan>
+      <tspan x="990" dy="16" fill="#00ff41">ポ</tspan>
+      <animate attributeName="y" from="-400" to="720" dur="5.55s" begin="-4.02s" repeatCount="indefinite"/>
+    </text>
+    <text x="1015" y="-400">
+      <tspan x="1015" dy="0" fill="#001a00">ヨ</tspan>
+      <tspan x="1015" dy="16" fill="#001a00">ヌ</tspan>
+      <tspan x="1015" dy="16" fill="#003300">ト</tspan>
+      <tspan x="1015" dy="16" fill="#004d00">キ</tspan>
+      <tspan x="1015" dy="16" fill="#006600">セ</tspan>
+      <tspan x="1015" dy="16" fill="#008000">エ</tspan>
+      <tspan x="1015" dy="16" fill="#009900">ザ</tspan>
+      <tspan x="1015" dy="16" fill="#00b300">サ</tspan>
+      <tspan x="1015" dy="16" fill="#00cc00">サ</tspan>
+      <tspan x="1015" dy="16" fill="#00e600">キ</tspan>
+      <tspan x="1015" dy="16" fill="#00ff41">ド</tspan>
+      <tspan x="1015" dy="16" fill="#aaffcc">セ</tspan>
+      <animate attributeName="y" from="-400" to="720" dur="3.54s" begin="-3.2s" repeatCount="indefinite"/>
+    </text>
+    <text x="1039" y="-400">
+      <tspan x="1039" dy="0" fill="#001a00">ヲ</tspan>
+      <tspan x="1039" dy="16" fill="#001a00">パ</tspan>
+      <tspan x="1039" dy="16" fill="#003300">ク</tspan>
+      <tspan x="1039" dy="16" fill="#004d00">デ</tspan>
+      <tspan x="1039" dy="16" fill="#006600">ユ</tspan>
+      <tspan x="1039" dy="16" fill="#006600">ガ</tspan>
+      <tspan x="1039" dy="16" fill="#008000">ワ</tspan>
+      <tspan x="1039" dy="16" fill="#009900">0</tspan>
+      <tspan x="1039" dy="16" fill="#00b300">ム</tspan>
+      <tspan x="1039" dy="16" fill="#00cc00">パ</tspan>
+      <tspan x="1039" dy="16" fill="#00cc00">ク</tspan>
+      <tspan x="1039" dy="16" fill="#00e600">ヂ</tspan>
+      <tspan x="1039" dy="16" fill="#00ff41">サ</tspan>
+      <tspan x="1039" dy="16" fill="#aaffcc">ザ</tspan>
+      <animate attributeName="y" from="-400" to="720" dur="7.42s" begin="-1.43s" repeatCount="indefinite"/>
+    </text>
+    <text x="1072" y="-400">
+      <tspan x="1072" dy="0" fill="#001a00">イ</tspan>
+      <tspan x="1072" dy="16" fill="#001a00">ヱ</tspan>
+      <tspan x="1072" dy="16" fill="#003300">ツ</tspan>
+      <tspan x="1072" dy="16" fill="#004d00">ボ</tspan>
+      <tspan x="1072" dy="16" fill="#006600">カ</tspan>
+      <tspan x="1072" dy="16" fill="#008000">サ</tspan>
+      <tspan x="1072" dy="16" fill="#009900">シ</tspan>
+      <tspan x="1072" dy="16" fill="#009900">カ</tspan>
+      <tspan x="1072" dy="16" fill="#00b300">ヌ</tspan>
+      <tspan x="1072" dy="16" fill="#00cc00">ユ</tspan>
+      <tspan x="1072" dy="16" fill="#00e600">ッ</tspan>
+      <tspan x="1072" dy="16" fill="#00ff41">ッ</tspan>
+      <tspan x="1072" dy="16" fill="#aaffcc">チ</tspan>
+      <animate attributeName="y" from="-400" to="720" dur="3.08s" begin="-1.12s" repeatCount="indefinite"/>
+    </text>
+    <text x="1098" y="-400">
+      <tspan x="1098" dy="0" fill="#001a00">ハ</tspan>
+      <tspan x="1098" dy="16" fill="#001a00">ザ</tspan>
+      <tspan x="1098" dy="16" fill="#003300">ビ</tspan>
+      <tspan x="1098" dy="16" fill="#004d00">ク</tspan>
+      <tspan x="1098" dy="16" fill="#006600">ヱ</tspan>
+      <tspan x="1098" dy="16" fill="#008000">リ</tspan>
+      <tspan x="1098" dy="16" fill="#009900">ホ</tspan>
+      <tspan x="1098" dy="16" fill="#00b300">ペ</tspan>
+      <tspan x="1098" dy="16" fill="#00cc00">ウ</tspan>
+      <tspan x="1098" dy="16" fill="#00e600">ガ</tspan>
+      <tspan x="1098" dy="16" fill="#00ff41">ノ</tspan>
+      <tspan x="1098" dy="16" fill="#aaffcc">ン</tspan>
+      <animate attributeName="y" from="-400" to="720" dur="7.22s" begin="-0.46s" repeatCount="indefinite"/>
+    </text>
+    <text x="1125" y="-400">
+      <tspan x="1125" dy="0" fill="#001a00">デ</tspan>
+      <tspan x="1125" dy="16" fill="#003300">エ</tspan>
+      <tspan x="1125" dy="16" fill="#004d00">バ</tspan>
+      <tspan x="1125" dy="16" fill="#006600">ペ</tspan>
+      <tspan x="1125" dy="16" fill="#008000">ヴ</tspan>
+      <tspan x="1125" dy="16" fill="#009900">ザ</tspan>
+      <tspan x="1125" dy="16" fill="#00b300">ヂ</tspan>
+      <tspan x="1125" dy="16" fill="#00cc00">フ</tspan>
+      <tspan x="1125" dy="16" fill="#00e600">ヌ</tspan>
+      <tspan x="1125" dy="16" fill="#00ff41">ゲ</tspan>
+      <tspan x="1125" dy="16" fill="#aaffcc">メ</tspan>
+      <animate attributeName="y" from="-400" to="720" dur="4.04s" begin="-2.38s" repeatCount="indefinite"/>
+    </text>
+    <text x="1144" y="-400">
+      <tspan x="1144" dy="0" fill="#001a00">ベ</tspan>
+      <tspan x="1144" dy="16" fill="#003300">バ</tspan>
+      <tspan x="1144" dy="16" fill="#004d00">ヤ</tspan>
+      <tspan x="1144" dy="16" fill="#006600">テ</tspan>
+      <tspan x="1144" dy="16" fill="#008000">ズ</tspan>
+      <tspan x="1144" dy="16" fill="#009900">ネ</tspan>
+      <tspan x="1144" dy="16" fill="#00b300">ヴ</tspan>
+      <tspan x="1144" dy="16" fill="#00cc00">ズ</tspan>
+      <tspan x="1144" dy="16" fill="#00e600">ビ</tspan>
+      <tspan x="1144" dy="16" fill="#00ff41">テ</tspan>
+      <tspan x="1144" dy="16" fill="#aaffcc">ザ</tspan>
+      <animate attributeName="y" from="-400" to="720" dur="7.73s" begin="-5.73s" repeatCount="indefinite"/>
+    </text>
+    <text x="1175" y="-400">
+      <tspan x="1175" dy="0" fill="#001a00">ケ</tspan>
+      <tspan x="1175" dy="16" fill="#001a00">ヴ</tspan>
+      <tspan x="1175" dy="16" fill="#003300">オ</tspan>
+      <tspan x="1175" dy="16" fill="#004d00">ビ</tspan>
+      <tspan x="1175" dy="16" fill="#006600">ズ</tspan>
+      <tspan x="1175" dy="16" fill="#006600">ハ</tspan>
+      <tspan x="1175" dy="16" fill="#008000">ス</tspan>
+      <tspan x="1175" dy="16" fill="#009900">マ</tspan>
+      <tspan x="1175" dy="16" fill="#00b300">ヤ</tspan>
+      <tspan x="1175" dy="16" fill="#00cc00">ゾ</tspan>
+      <tspan x="1175" dy="16" fill="#00cc00">ト</tspan>
+      <tspan x="1175" dy="16" fill="#00e600">ゾ</tspan>
+      <tspan x="1175" dy="16" fill="#00ff41">ヴ</tspan>
+      <tspan x="1175" dy="16" fill="#aaffcc">1</tspan>
+      <animate attributeName="y" from="-400" to="720" dur="5.18s" begin="-0.14s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <rect x="0" y="108" width="1200" height="104" fill="#000000" opacity="0.55"/>
+  <g font-family="Consolas, Menlo, Monaco, monospace" text-anchor="middle" filter="url(#glowStrong)">
+    <text x="600" y="160" font-size="40" font-weight="bold" fill="#00ff41" opacity="0">
+      &gt; YOUR_NAME_HERE
+      <animate attributeName="opacity" from="0" to="1" dur="1.6s" begin="0.2s" fill="freeze"/>
+    </text>
+    <text x="600" y="196" font-size="18" fill="#66ff99" opacity="0">
+      SOFTWARE ENGINEER // BUILDING THE FUTURE
+      <animate attributeName="opacity" from="0" to="1" dur="1.6s" begin="1.0s" fill="freeze"/>
+    </text>
+  </g>
+</svg>
+
