@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 195" width="480" height="195" font-family="Consolas, Menlo, Monaco, monospace" role="img" aria-label="ConstRV06's GitHub stats">
+  <defs>
+    <filter id="g" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect x="0.5" y="0.5" width="479" height="194" rx="10" fill="#000000" fill-opacity="0.001" stroke="rgba(57,255,136,0.25)"/>
+  <text x="24" y="32" font-size="15" font-weight="700" letter-spacing="0.5" fill="#39ff88" filter="url(#g)">CONSTRV06'S GITHUB STATS</text>
+  <line x1="24" y1="42" x2="456" y2="42" stroke="rgba(57,255,136,0.2)"/>
+  
+    <text x="24" y="76" font-size="13" fill="#9fe8bd">Total Stars</text>
+    <text x="300" y="76" font-size="13" font-weight="700" fill="#baffdd" text-anchor="end" font-variant-numeric="tabular-nums">0</text>
+    <text x="24" y="101" font-size="13" fill="#9fe8bd">Total Commits</text>
+    <text x="300" y="101" font-size="13" font-weight="700" fill="#baffdd" text-anchor="end" font-variant-numeric="tabular-nums">13</text>
+    <text x="24" y="126" font-size="13" fill="#9fe8bd">Total PRs</text>
+    <text x="300" y="126" font-size="13" font-weight="700" fill="#baffdd" text-anchor="end" font-variant-numeric="tabular-nums">0</text>
+    <text x="24" y="151" font-size="13" fill="#9fe8bd">Total Issues</text>
+    <text x="300" y="151" font-size="13" font-weight="700" fill="#baffdd" text-anchor="end" font-variant-numeric="tabular-nums">0</text>
+    <text x="24" y="176" font-size="13" fill="#9fe8bd">Contributed To</text>
+    <text x="300" y="176" font-size="13" font-weight="700" fill="#baffdd" text-anchor="end" font-variant-numeric="tabular-nums">2</text>
+  <g transform="translate(410,100)" filter="url(#g)">
+    <circle r="46" fill="none" stroke="#123324" stroke-width="9"/>
+    <circle r="46" fill="none" stroke="#39ff88" stroke-width="9" stroke-linecap="round"
+      stroke-dasharray="20.2 289.0"
+      transform="rotate(-90)"/>
+    <text x="0" y="7" font-size="22" font-weight="800" fill="#baffdd" text-anchor="middle">C</text>
+  </g>
+</svg>

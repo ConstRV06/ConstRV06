@@ -1,0 +1,37 @@
+name: Generate GitHub Stats Cards
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" # every 6 hours
+  workflow_dispatch: {} # allow manual trigger from the Actions tab
+  push:
+    branches:
+      - main
+    paths:
+      - "scripts/generate-stats.mjs"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: generate stats cards from real GitHub data
+        env:
+          USERNAME: ${{ github.repository_owner }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/generate-stats.mjs
+
+      - name: commit updated cards back to main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/stats-card.svg assets/langs-card.svg
+          git diff --cached --quiet || git commit -m "chore: refresh stats cards [skip ci]"
+          git push

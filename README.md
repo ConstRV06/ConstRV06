@@ -6,8 +6,12 @@
   1. This file lives in ConstRV06/ConstRV06 — the repo named after
      your GitHub username, which is why GitHub renders it on your
      profile page.
-  2. Username placeholders (stats/streak/snake/typing-svg URLs) are
-     already filled in as ConstRV06 — those are done.
+  2. Username placeholders (streak/snake/typing-svg URLs) are already
+     filled in as ConstRV06 — those are done. GitHub stats / top
+     languages are self-generated from real data by
+     .github/workflows/stats.yml (scripts/generate-stats.mjs) into
+     assets/stats-card.svg and assets/langs-card.svg — no third-party
+     service, refreshes every 6h + on push. No action needed.
   3. Still find-and-replace: the "Name / Fun fact / Currently"
      lines in the terminal block below, and the LinkedIn/Twitter/
      Website/Email badge links and mailto address further down.
@@ -72,8 +76,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ConstRV06&show_icons=true&hide_border=true&bg_color=00000000&title_color=00FF41&icon_color=00FF41&text_color=66FF99&ring_color=00FF41" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConstRV06&layout=compact&hide_border=true&bg_color=00000000&title_color=00FF41&text_color=66FF99&langs_count=8" alt="Top languages" />
+<img width="420" src="./assets/stats-card.svg" alt="GitHub stats" />
+<img width="420" src="./assets/langs-card.svg" alt="Top languages" />
 
 <br/>
 
