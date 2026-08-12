@@ -3,20 +3,20 @@
   GITHUB PROFILE README — MATRIX / TERMINAL TEMPLATE
   ============================================================
   HOW TO USE:
-  1. This file must live in a repo named exactly like your GitHub
-     username (e.g. github.com/YOUR_USERNAME/YOUR_USERNAME) with
-     this README.md at its root — that's the repo GitHub renders
-     on your profile page.
-  2. Find-and-replace every ALL_CAPS_PLACEHOLDER below with your
-     own info. Search for "YOUR_USERNAME", "YOUR_NAME_HERE",
-     "youremail@example.com", "yourhandle", "yourusername" etc.
-  3. Swap assets/matrix-banner.svg's text "YOUR_NAME_HERE" / tagline
+  1. This file lives in ConstRV06/ConstRV06 — the repo named after
+     your GitHub username, which is why GitHub renders it on your
+     profile page.
+  2. Username placeholders (stats/streak/snake/typing-svg URLs) are
+     already filled in as ConstRV06 — those are done.
+  3. Still find-and-replace: the "Name / Fun fact / Currently"
+     lines in the terminal block below, and the LinkedIn/Twitter/
+     Website/Email badge links and mailto address further down.
+  4. Swap assets/matrix-banner.svg's text "YOUR_NAME_HERE" / tagline
      to personalize the animated banner (it's plain SVG, editable
      in any text editor — search for those two strings inside it).
-  4. Enable the snake animation: push this repo, then check the
-     Actions tab — .github/workflows/snake.yml runs automatically
-     and publishes to your `output` branch (see comments in that
-     file). It needs zero configuration beyond being present.
+  5. The snake animation is already running via
+     .github/workflows/snake.yml (daily + on push) and publishing
+     to the `output` branch — no further action needed.
   ============================================================
 -->
 
@@ -26,7 +26,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1200&color=00FF41&center=true&vCenter=true&width=650&lines=root%40YOUR_USERNAME%3A~%24+whoami;full-stack+developer;building+things+that+ship;compiling+coffee+into+code...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1200&color=00FF41&center=true&vCenter=true&width=650&lines=root%40ConstRV06%3A~%24+whoami;full-stack+developer;building+things+that+ship;compiling+coffee+into+code...)](https://git.io/typing-svg)
 
 </div>
 
@@ -41,7 +41,7 @@
 [38;5;46m>[0m Currently   : Learning / Building YOUR_CURRENT_PROJECT
 [38;5;46m>[0m Fun fact    : YOUR_FUN_FACT_HERE
 
-[38;5;46mguest@YOUR_USERNAME[0m:[38;5;27m~[0m$ [5m█[0m
+[38;5;46mguest@ConstRV06[0m:[38;5;27m~[0m$ [5m█[0m
 ```
 
 <div align="center">
@@ -73,12 +73,12 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=00FF41&icon_color=00FF41&text_color=66FF99&ring_color=00FF41" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=00000000&title_color=00FF41&text_color=66FF99&langs_count=8" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ConstRV06&show_icons=true&hide_border=true&bg_color=00000000&title_color=00FF41&icon_color=00FF41&text_color=66FF99&ring_color=00FF41" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConstRV06&layout=compact&hide_border=true&bg_color=00000000&title_color=00FF41&text_color=66FF99&langs_count=8" alt="Top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=00000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=66FF99&currStreakNum=EAFFEA&sideNums=66FF99&dates=336655" alt="GitHub streak stats" />
+<img src="https://streak-stats.demolab.com?user=ConstRV06&hide_border=true&background=00000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=66FF99&currStreakNum=EAFFEA&sideNums=66FF99&dates=336655" alt="GitHub streak stats" />
 
 </div>
 
@@ -89,7 +89,7 @@
 <div align="center">
 
 <!--START_SECTION:snake-->
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" />
+<img src="https://raw.githubusercontent.com/ConstRV06/ConstRV06/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" />
 <!--END_SECTION:snake-->
 
 <sub>auto-generated daily by <code>.github/workflows/snake.yml</code> — see that file for setup notes</sub>
@@ -104,6 +104,6 @@
 [38;5;46m// end of transmission_[0m
 ```
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=CONNECTIONS+TRACED&color=00FF41&style=flat&labelColor=000000)
+![Profile views](https://komarev.com/ghpvc/?username=ConstRV06&label=CONNECTIONS+TRACED&color=00FF41&style=flat&labelColor=000000)
 
 </div>
