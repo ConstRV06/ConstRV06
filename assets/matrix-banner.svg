@@ -672,7 +672,7 @@
   <rect x="0" y="108" width="1200" height="104" fill="#000000" opacity="0.55"/>
   <g font-family="Consolas, Menlo, Monaco, monospace" text-anchor="middle" filter="url(#glowStrong)">
     <text x="600" y="160" font-size="40" font-weight="bold" fill="#00ff41" opacity="0">
-      &gt; YOUR_NAME_HERE
+      &gt; CONSTRV06
       <animate attributeName="opacity" from="0" to="1" dur="1.6s" begin="0.2s" fill="freeze"/>
     </text>
     <text x="600" y="196" font-size="18" fill="#66ff99" opacity="0">
