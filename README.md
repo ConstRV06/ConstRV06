@@ -22,7 +22,7 @@
 
 <div align="center">
 
-<img src="./assests/matrix-banner.svg" alt="YOUR_NAME_HERE banner" width="100%" />
+<img src="./assets/matrix-banner.svg" alt="ConstRV06 banner" width="100%" />
 
 <br/>
 
