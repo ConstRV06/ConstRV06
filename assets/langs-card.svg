@@ -1,17 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 114" width="480" height="114" font-family="Consolas, Menlo, Monaco, monospace" role="img" aria-label="ConstRV06's most used languages">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 136" width="480" height="136" font-family="Consolas, Menlo, Monaco, monospace" role="img" aria-label="ConstRV06's most used languages">
   <defs>
     <filter id="g2" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="2.2" result="b"/>
       <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
   </defs>
-  <rect x="0.5" y="0.5" width="479" height="113" rx="10" fill="#000000" fill-opacity="0.001" stroke="rgba(57,255,136,0.25)"/>
+  <rect x="0.5" y="0.5" width="479" height="135" rx="10" fill="#000000" fill-opacity="0.001" stroke="rgba(57,255,136,0.25)"/>
   <text x="24" y="32" font-size="15" font-weight="700" letter-spacing="0.5" fill="#39ff88" filter="url(#g2)">MOST USED LANGUAGES</text>
   <line x1="24" y1="42" x2="456" y2="42" stroke="rgba(57,255,136,0.2)"/>
   <rect x="20" y="50" width="440" height="10" rx="5" fill="#123324"/>
-  <rect x="20.0" y="50" width="440.0" height="10" fill="#e34c26"/>
+  <rect x="20.0" y="50" width="414.3" height="10" fill="#e34c26"/><rect x="434.3" y="50" width="25.7" height="10" fill="#f1e05a"/>
   
     <circle cx="28" cy="80" r="4" fill="#e34c26"/>
     <text x="40" y="84" font-size="13" fill="#c9d1d9">HTML</text>
-    <text x="456" y="84" font-size="13" fill="#8fe6b3" text-anchor="end" font-variant-numeric="tabular-nums">100.0%</text>
+    <text x="456" y="84" font-size="13" fill="#8fe6b3" text-anchor="end" font-variant-numeric="tabular-nums">94.2%</text>
+    <circle cx="28" cy="102" r="4" fill="#f1e05a"/>
+    <text x="40" y="106" font-size="13" fill="#c9d1d9">JavaScript</text>
+    <text x="456" y="106" font-size="13" fill="#8fe6b3" text-anchor="end" font-variant-numeric="tabular-nums">5.8%</text>
 </svg>

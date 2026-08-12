@@ -12,17 +12,17 @@
     <text x="24" y="76" font-size="13" fill="#9fe8bd">Total Stars</text>
     <text x="300" y="76" font-size="13" font-weight="700" fill="#baffdd" text-anchor="end" font-variant-numeric="tabular-nums">0</text>
     <text x="24" y="101" font-size="13" fill="#9fe8bd">Total Commits</text>
-    <text x="300" y="101" font-size="13" font-weight="700" fill="#baffdd" text-anchor="end" font-variant-numeric="tabular-nums">13</text>
+    <text x="300" y="101" font-size="13" font-weight="700" fill="#baffdd" text-anchor="end" font-variant-numeric="tabular-nums">14</text>
     <text x="24" y="126" font-size="13" fill="#9fe8bd">Total PRs</text>
     <text x="300" y="126" font-size="13" font-weight="700" fill="#baffdd" text-anchor="end" font-variant-numeric="tabular-nums">0</text>
     <text x="24" y="151" font-size="13" fill="#9fe8bd">Total Issues</text>
     <text x="300" y="151" font-size="13" font-weight="700" fill="#baffdd" text-anchor="end" font-variant-numeric="tabular-nums">0</text>
     <text x="24" y="176" font-size="13" fill="#9fe8bd">Contributed To</text>
-    <text x="300" y="176" font-size="13" font-weight="700" fill="#baffdd" text-anchor="end" font-variant-numeric="tabular-nums">2</text>
+    <text x="300" y="176" font-size="13" font-weight="700" fill="#baffdd" text-anchor="end" font-variant-numeric="tabular-nums">0</text>
   <g transform="translate(410,100)" filter="url(#g)">
     <circle r="46" fill="none" stroke="#123324" stroke-width="9"/>
     <circle r="46" fill="none" stroke="#39ff88" stroke-width="9" stroke-linecap="round"
-      stroke-dasharray="20.2 289.0"
+      stroke-dasharray="2.9 289.0"
       transform="rotate(-90)"/>
     <text x="0" y="7" font-size="22" font-weight="800" fill="#baffdd" text-anchor="middle">C</text>
   </g>
