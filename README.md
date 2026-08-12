@@ -37,9 +37,8 @@
 
 [38;5;46m>[0m Name        : ConstRV
 [38;5;46m>[0m Role        : Software Engineer
-[38;5;46m>[0m Focus       : Web · Backend · (edit me)
-[38;5;46m>[0m Currently   : Learning / Building YOUR_CURRENT_PROJECT
-[38;5;46m>[0m Fun fact    : YOUR_FUN_FACT_HERE
+[38;5;46m>[0m Focus       : Web · Backend · Automatization
+[38;5;46m>[0m Currently   : Learning / Building 
 
 [38;5;46mguest@ConstRV06[0m:[38;5;27m~[0m$ [5m█[0m
 ```
