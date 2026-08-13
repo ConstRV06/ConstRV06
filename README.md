@@ -37,14 +37,14 @@
 <br/>
 
 ```ansi
-[38;5;46mguest@ConstRV06[0m:[38;5;27m~[0m$ cat about.txt
+[38;5;46mguest@ConstRV06[0m:[38;5;46m~[0m$ cat about.txt
 
-[38;5;46m>[0m Name        : ConstRV
-[38;5;46m>[0m Role        : Software Engineer
-[38;5;46m>[0m Focus       : Web · Backend · Automatization
-[38;5;46m>[0m Currently   : Learning / Building 
+[38;5;46m>[0m Name        : [38;5;121mConstRV[0m
+[38;5;46m>[0m Role        : [38;5;121mSoftware Engineer[0m
+[38;5;46m>[0m Focus       : [38;5;121mWeb · Backend · Automatization[0m
+[38;5;46m>[0m Currently   : [38;5;121mLearning / Building[0m
 
-[38;5;46mguest@ConstRV06[0m:[38;5;27m~[0m$ [5m█[0m
+[38;5;46mguest@ConstRV06[0m:[38;5;46m~[0m$ [5m█[0m
 ```
 
 <div align="center">
